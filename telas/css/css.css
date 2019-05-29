@@ -1,0 +1,953 @@
+#home {
+  background: #313235;
+  overflow-x: hidden;
+}
+
+/* #produtos {
+  width: 100%;
+  background-image: url("../imagens/fundobebidas.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  overflow-x: hidden;
+} */
+
+#corfria {
+  background-image: url("../imagens/fundofrio.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#corquente {
+  background-image: url("../imagens/madeira2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+/* #destaque {
+  width: 100%;
+  background-image: url("../imagens/fundo1.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+} */
+
+.fundochopps {
+  background-image: url("../imagens/madeira4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.fundohamburguer {
+  background-image: url("../imagens/madeira3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.fundoadc {
+  background-image: url("../imagens/fundo1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.fundopromo {
+  background-image: url("../imagens/fundo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#top {
+  height: 350px;
+  background-color: black;
+  text-align: center;
+  width: 100%;
+}
+
+#top2 {
+  background-color: black;
+  min-height: 350px;
+  text-align: center;
+  width: 100%;
+}
+
+#img_prod {
+  /* height: 100%; */
+}
+
+/* MENU */
+
+#icone {
+  margin-left: 40px;
+}
+
+#menu {
+  margin-top: -7px;
+  width: 100%;
+  background-image: url("../imagens/menu.jpg");
+  background-size: 100%;
+}
+
+/* MENU */
+
+
+
+/* PARALLAX */
+
+.titulo {
+  color: white;
+  background-image: url("../imagens/madeira.jpg");
+  background-size: 100%;
+  height: 130px;
+  text-align: center;
+}
+
+.titulo_bebida {
+  color: white;
+  background-image: url("../imagens/bebida.jpg");
+  background-size: cover;
+  height: 130px;
+  text-align: center;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.titulo_bebidas {
+  color: white;
+  background-image: url("../imagens/fundochopp.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  background-position: top;
+   background-attachment: fixed;
+}
+
+.titulo_hamburguer {
+  color: white;
+  background-image: url("../imagens/lanches.jpg");
+  background-size: 100%;
+  height: 130px;
+  text-align: center;
+  background-position: center;
+   /* background-attachment: fixed; */
+}
+
+.titulo_lanches {
+  color: white;
+  background-image: url("../imagens/lanche.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  background-position: top;
+   background-attachment: fixed;
+}
+
+.titulo_porcoes {
+  color: white;
+  background-image: url("../imagens/porcoes.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  background-position: top;
+   background-attachment: fixed;
+}
+
+.titulo_frios {
+  color: white;
+  background-image: url("../imagens/frios.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  background-position: center;
+}
+
+.titulo_quentes {
+  color: white;
+  background-image: url("../imagens/quentes.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 150px;
+  text-align: center;
+  background-position: center;
+}
+
+.titulo_destaques {
+  color: white;
+  background-image: url("../imagens/destaques2.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  background-position: top;
+   background-attachment: fixed;
+}
+
+.titulo_destaques:hover {
+  color: white;
+  background-image: url("../imagens/destaques1.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  background-position: top;
+   background-attachment: fixed;
+}
+
+.bebidas {
+  color: white;
+  background-image: url("../imagens/madeira.jpg");
+  background-size: 100%;
+  width: 1000px;
+  height: 130px;
+  text-align: center;
+}
+
+.titulo2 {
+  margin-top: 30px;
+  font-size: 55px;
+  font-family: 'Paytone One', sans-serif;
+  color: #bc2d01;
+}
+
+.titulo3 {
+  margin-top: 350px;
+  font-size: 80px;
+  font-family: 'Paytone One', sans-serif;
+  color: white;
+  /* color: #bc2d01; */
+}
+
+.titulof {
+  margin-top: 30px;
+  font-size: 55px;
+  font-family: 'Paytone One', sans-serif;
+  color: #0c0e2d;
+}
+
+.tituloq {
+  margin-top: 30px;
+  font-size: 55px;
+  font-family: 'Paytone One', sans-serif;
+  color: #c44409;
+}
+
+.parallax1{
+  background-attachment: fixed;
+  background-position: center;
+  height: 100vh;
+  width: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../imagens/parallax1.jpg");
+  text-align: center;
+}
+
+.parallax2{
+  background-attachment: fixed;
+  background-position: center;
+  /* height: 100vh; */
+  width: cover;
+  background-size: cover;
+  background-image: url("../imagens/parallax2.jpg");
+  text-align: center;
+}
+
+.para-titulo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+/* PARALLAX1 */
+
+
+
+/* CAROUSEL */
+.carousel {
+  margin-top: 25px;
+  text-align: center;
+}
+
+#carouselExampleControls {
+  width: 700px;
+  margin-bottom: 30px;
+}
+
+#carouselExampleControls1 {
+  width: 1150px;
+  margin-bottom: 30px;
+}
+
+#carouselExampleControls1 h1 {
+  font-size: 60px;
+  font-family: 'Paytone One', sans-serif;
+}
+
+#carouselExampleControls2 {
+  width: 1200px;
+  margin-bottom: 30px;
+}
+
+#carouselExampleControls2 h1 {
+  font-size: 60px;
+  font-family: 'Paytone One', sans-serif;
+  color:  #bc2d01;
+}
+
+#carouselExampleControls3 {
+  width: 1200px;
+  margin-bottom: 300px;
+}
+
+#carouselExampleControls3 h1 {
+  font-size: 60px;
+  font-family: 'Paytone One', sans-serif;
+  /* color:  #bc2d01; */
+}
+
+.promo {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.luz {
+  width: 700px;
+  height: auto;
+}
+
+.altslide {
+  width: 1150px;
+  height: 800px;
+}
+
+.altslide2 {
+  width: 1200px;
+  height: auto;
+}
+
+.altslide3 {
+  width: 1200px;
+  height: auto;
+  opacity: 0.9;
+}
+
+.luz:hover {
+  opacity: 0.9;
+}
+
+#mais {
+  color: #ce140e;
+}
+
+#mais:hover {
+  text-decoration: none;
+}
+
+.carousel-porcoes {
+  margin-top: -25px;
+}
+
+.carousel-porcoes h1 {
+  font-size: 60px;
+}
+
+.carousel-porcoes p {
+  font-size: 30px;
+}
+
+.legenda-slide {
+  color: #bc2d01;
+  font-family: 'Paytone One', sans-serif;
+}
+
+#leg1 {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+}
+
+#leg2 {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+}
+
+/* CAROUSEL */
+
+/* DATALIGHTBOX */
+
+.column {
+  margin-top: 20px;
+}
+
+/* DATALIGHTBOX */
+
+/* RODAPE */
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   min-height: 55px;
+   max-height: 90px;
+}
+
+.icons {
+  margin-left: 10px;
+}
+
+#gypsy {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.logo_rodape {
+    text-align: center;
+    min-width: 200px
+}
+
+#logo {
+  margin-top: 20px;
+}
+
+.rodape a {
+  font-size: 20px;
+  color: #bc2d01;
+}
+
+.rodape h3 {
+  color: #bc2d01;
+  font-size: 30px;
+
+}
+
+.rodape a:hover {
+  text-decoration: inherit;
+  color: white;
+}
+
+/* RODAPE */
+
+
+/* TELA BEBIDAS */
+
+#bebidas alt {
+  font-size: 50px;
+}
+
+.fotos1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+ .fotos2 {
+  margin-bottom: 30px;
+}
+
+
+/* TELA BEBIDAS */
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+  .titulo1 {
+    margin-top: 40px;
+    font-size: 35px;
+    font-family: 'Paytone One', sans-serif;
+  }
+
+  .para-txt {
+    text-align: justify;
+    color: white;
+    font-size: 19px;
+  }
+
+/* MENU */
+  ul {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  /* RODAPE */
+  .rodape {
+    background-image: url("../imagens/menu.jpg");
+    background-size: cover;
+    color: white;
+    min-height: 1000px;
+    height: cover;
+    background-position: center;
+  }
+
+  .titulo_rodape {
+      margin-top: -100px;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+}
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+  .titulo1 {
+    margin-top: 30px;
+    font-size: 35px;
+    font-family: 'Paytone One', sans-serif;
+  }
+
+  .para-txt {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+  }
+
+/* MENU */
+  ul {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  #home a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #produtos a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #destaque a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #home a:hover {
+    color: #e2821b;
+  }
+
+  #produtos a:hover {
+    color: #e2821b;
+  }
+
+  #destaque a:hover {
+    color: #e2821b;
+  }
+
+
+  /* RODAPE */
+  .rodape {
+    background-image: url("../imagens/menu.jpg");
+    background-size: cover;
+    color: white;
+    min-height: 1000px;
+    height: cover;
+    background-position: center;
+  }
+
+  .titulo_rodape {
+      margin-top: -100px;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+}
+
+@media (min-width : 480px) and (orientation: landscape){
+  .titulo1 {
+    margin-top: 30px;
+    font-size: 55px;
+    font-family: 'Paytone One', sans-serif;
+  }
+
+  .para-txt {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+  }
+
+/* MENU */
+  ul {
+    margin-top: 10px;
+    margin-left: 0px;
+  }
+
+  #home a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 0px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #produtos a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 0px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #destaque a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 0px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #home a:hover {
+    color: #e2821b;
+  }
+
+  #produtos a:hover {
+    color: #e2821b;
+  }
+
+  #destaque a:hover {
+    color: #e2821b;
+  }
+
+  /* RODAPE */
+  .rodape {
+    background-image: url("../imagens/menu.jpg");
+    background-size: cover;
+    color: white;
+    min-height: 900px;
+    height: cover;
+    background-position: center;
+  }
+
+  .titulo_rodape {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+  .titulo1 {
+    margin-top: 30px;
+    font-size: 55px;
+    font-family: 'Paytone One', sans-serif;
+  }
+
+  .para-txt {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+  }
+
+/* MENU */
+  ul {
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+
+  #home a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 0px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #produtos a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 0px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #destaque a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 0px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #home a:hover {
+    color: #e2821b;
+  }
+
+  #produtos a:hover {
+    color: #e2821b;
+  }
+
+  #destaque a:hover {
+    color: #e2821b;
+  }
+
+  /* RODAPE */
+  .rodape {
+    background-image: url("../imagens/menu.jpg");
+    background-size: cover;
+    color: white;
+    min-height: 900px;
+    height: cover;
+    background-position: center;
+  }
+
+  .titulo_rodape {
+      margin-top: 0px;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  .titulo1 {
+    margin-top: 30px;
+    font-size: 55px;
+    font-family: 'Paytone One', sans-serif;
+  }
+
+  .para-txt {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+  }
+
+/* MENU */
+  ul {
+    margin-left: 0px;
+  }
+
+  #home a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #produtos a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #destaque a.nav-link {
+
+    color: #bc2d01;
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #home a:hover {
+    color: #e2821b;
+  }
+
+  #produtos a:hover {
+    color: #e2821b;
+  }
+
+  #destaque a:hover {
+    color: #e2821b;
+  }
+
+  /* RODAPE */
+  .rodape {
+    background-image: url("../imagens/menu.jpg");
+    background-size: cover;
+    color: white;
+    min-height: 600px;
+    height: cover;
+    background-position: center;
+  }
+
+  .titulo_rodape {
+      margin-top: -200px;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+  .titulo1 {
+    margin-top: 30px;
+    font-size: 55px;
+    font-family: 'Paytone One', sans-serif;
+  }
+
+  .para-txt {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+  }
+
+  /* MENU */
+  ul {
+    margin-left: 30px;
+  }
+
+  #home a.nav-link {
+
+    color: #bc2d01;
+    font-size: 50px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #produtos a.nav-link {
+
+    color: #bc2d01;
+    font-size: 50px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #destaque a.nav-link {
+
+    color: #bc2d01;
+    font-size: 50px;
+    margin-left: 50px;
+    font-family: 'Baloo Bhai', cursive;
+  }
+
+  #home a:hover {
+    color: #e2821b;
+  }
+
+  #produtos a:hover {
+    color: #e2821b;
+  }
+
+  #destaque a:hover {
+    color: #e2821b;
+  }
+
+ /* RODAPE */
+  .rodape {
+    background-image: url("../imagens/menu.jpg");
+    background-size: cover;
+    color: white;
+    min-height: 400px;
+    height: cover;
+    background-position: center;
+  }
+
+  .titulo_rodape {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+}
+
+
+
+
+
+.hovereffect {
+width:100%;
+height:100%;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+}
+
+.hovereffect img {
+display:block;
+position:relative;
+-webkit-transition:all .4s linear;
+transition:all .4s linear;
+}
+
+.hovereffect h1 {
+text-transform:uppercase;
+color:#fff;
+text-align:center;
+position:relative;
+font-size:17px;
+background:rgba(0,0,0,0.6);
+-webkit-transform:translatey(-100px);
+-ms-transform:translatey(-100px);
+transform:translatey(-100px);
+-webkit-transition:all .2s ease-in-out;
+transition:all .2s ease-in-out;
+padding:5px;
+}
+
+.hovereffect .overlay {
+width:100%;
+height:100%;
+
+overflow:hidden;
+/* position:absolute;
+top:0;
+left:0; */
+opacity:0;
+background-color:rgba(0,0,0,0.5);
+-webkit-transition:all .4s ease-in-out;
+transition:all .4s ease-in-out
+}
+
+.hovereffect:hover img {
+-ms-transform:scale(1.2);
+-webkit-transform:scale(1.2);
+transform:scale(1.2);
+}
+
+.hovereffect:hover .overlay {
+opacity:1;
+filter:alpha(opacity=100);
+}
+
+.hovereffect:hover h1,.hovereffect:hover a.info {
+opacity:1;
+filter:alpha(opacity=100);
+-ms-transform:translatey(0);
+-webkit-transform:translatey(0);
+transform:translatey(0);
+}
+
+#btnMostrarEsconder {
+  background-color: black;
+  border: inherit;
+}
+
+#seta {
+  color: white;
+}
+
+.local {
+  background-color: black
+}
+
+#carouselExampleControls5 {
+  width: 90%;
+}

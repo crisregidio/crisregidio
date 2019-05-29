@@ -1,0 +1,71 @@
+.quadro
+{
+  width: 400px;
+  height: 430px;
+  text-align: center;
+   margin: 10% 0 0 35%;
+  background-color: #302e2c;
+  border-radius: 10px;
+}
+
+.quadro label
+{
+    margin-top: 15px;
+    border: 3px;
+    border-color: black;
+}
+#gypsy {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.txt {
+font-size: 19px;
+}
+
+#botao{
+  margin-top: 10px;
+  background-color: black;
+  font-size: 19px;
+}
+#botao:hover{
+  color: orange;
+}
+#campousuario{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+#camposenha{
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+#btnversite{
+  /* margin-top: 20px;
+  margin-left: 15px; */
+  background-color: black;
+  height: 40px;
+  width: 120px;
+  font-size: 20px;
+  text-align: center;
+
+margin: 1% 0 0 35%;
+}
+
+
+#home{
+  background-image: url("../imagens/menu.jpg");
+  background-size: cover;
+
+
+
+}
+
+a{
+  text-decoration: none!important;
+  color: white !important;
+}
+
+a:hover{
+  color: orange !important;
+}
